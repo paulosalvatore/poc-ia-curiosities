@@ -1,0 +1,17 @@
+{
+  "name": "poc-ia-curiosities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "node-font2base64": "^0.8.1",
+    "node-html-to-image": "^3.2.4"
+  }
+}
